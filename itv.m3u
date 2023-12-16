@@ -217,3 +217,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="菏泽新闻综合" tvg-name="菏泽新闻综合" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/HZTV1.png" group-title="菏泽",菏泽新闻综合
 http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
+#EXTINF:-1 tvg-id="菏泽经济生活" tvg-name="菏泽经济生活" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/菏泽经济生活.png" group-title="菏泽",菏泽经济生活
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽影视" tvg-name="菏泽影视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/菏泽影视.png" group-title="菏泽",菏泽影视
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
