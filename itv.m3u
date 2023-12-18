@@ -203,3 +203,5 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/爱体育.png" group-title="IHOT系列",爱体育
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="林正英" tvg-name="林正英" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/林正英.png" group-title="明星电影",林正英
+http://153.35.89.110:452/15013_xv_1351505899_1351505899_0_0_0-15013_xa_1351505899_1351505899_0_0_0-0-0.m3u8?uuid=b6b7613bd13a439da99dbcf49c0720eb&org=web&m=a54106b7a39f17bc2dd774e21d773622&r=899609377&v=1&t=1702899998&uid=0
