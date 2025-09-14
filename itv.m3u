@@ -37,3 +37,5 @@ https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-39.m3u8
 http://119.123.78.216:8086/hls/40/index.m3u8
 #EXTINF:-1 group-title="少儿" tvg-name="山东少儿" tvg-logo="https://livecdn.zbds.org/logo/山东少儿.png",山东少儿
 https://stream1.freetv.fun/015dbac308d9da33dad5b4b2991f2fa094de73f086e45f9f3e3356e4e7aa6dc2.m3u8
+#EXTINF:-1 group-title="少儿" tvg-name="卡酷少儿" tvg-logo="https://livecdn.zbds.org/logo/卡酷少儿.png",卡酷少儿
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/index.m3u8
