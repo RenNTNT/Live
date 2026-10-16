@@ -1,0 +1,3 @@
+EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml"
+#EXTINF:-1 group-title="菏泽频道" tvg-name="菏泽新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",菏泽新闻
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
